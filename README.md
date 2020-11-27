@@ -5,6 +5,19 @@ For more detail, please visit:
 
 > [Angular 10 CRUD application example with Web API](https://bezkoder.com/angular-10-crud-app/)
 
+> [Angular 10 JWT Authentication example with Web Api](https://bezkoder.com/angular-10-jwt-auth/)
+
+Server side Pagination for this app:
+> [Node.js Express Pagination with MySQL](https://bezkoder.com/node-js-sequelize-pagination-mysql/)
+
+> [Node.js Express Pagination with PostgreSQL](https://bezkoder.com/node-js-pagination-postgresql/)
+
+> [Node.js Express Pagination with MongoDB](https://bezkoder.com/node-js-mongodb-pagination/)
+
+> [Spring Boot Pagination and Filter example](https://bezkoder.com/spring-boot-pagination-filter-jpa-pageable/)
+
+> [Spring Boot MongoDB Pagination example with Spring Data](https://bezkoder.com/spring-boot-mongodb-pagination/)
+
 Fullstack with Node.js Express:
 > [Angular 10 + Node.js Express + MySQL](https://bezkoder.com/angular-10-node-js-express-mysql/)
 
@@ -22,6 +35,11 @@ Fullstack with Spring Boot:
 Fullstack with Django:
 
 > [Angular 10 + Django Rest Framework](https://bezkoder.com/django-angular-10-crud-rest-framework/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular 10 with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
 
 ## Development server
 
